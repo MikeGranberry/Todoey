@@ -20,6 +20,8 @@ class CategoryTableViewController: UITableViewController {
         
         loadCategories()
         
+ 
+        
     }
  
     //MARK: - TableView Datasource Methods
